@@ -119,10 +119,10 @@ array.map(ele => {
 ```
 ##### 3. ¿Cuál es la diferencia entre scope y context?
 * Scope: Se refiere a la visibilidad o alcance que tiene una variable, gracias este podemos decidir a que 
-variables acceder en cada parte del codigo, existen 2 tipos el global y el local.
+variables acceder en cada parte del código, existen 2 tipos el global y el local.
 
 ```javascript 
-    //Scope local es cuando una variable esta declarada dentro de un bloque o una funcion
+    //Scope local es cuando una variable esta declarada dentro de un bloque o una función
    
     function getName(){                                           
         const name = "Gaston"                                  
@@ -132,7 +132,7 @@ variables acceder en cada parte del codigo, existen 2 tipos el global y el local
     console.log('llamado desde fuera del bloque --> ',name );  //undefined
     getName(); //Gaston
     
-    //Scope global es cuando una variable esta declarada fuera de un bloque o funcion
+    //Scope global es cuando una variable esta declarada fuera de un bloque o función
     
     const lastName = "Briones"
     
@@ -142,8 +142,22 @@ variables acceder en cada parte del codigo, existen 2 tipos el global y el local
     }
     
     console.log('llamado desde fuera del bloque --> ',lastName );  //Briones    
-    getLastName(); //Briones                                                            
-   
-   
+    getLastName(); //Briones    
+    
+    //Example 2
+    
+    function a() {
+    	let outside = 'outside';
+    
+    	function b() {
+    		let inside = 'inside';
+    		console.log(outside); 
+    	}
+    	b(); // outside    
+    	console.log(inside); 
+    }
+    
+    a(); // inside is not defined  
 ```
+* Context: 
 

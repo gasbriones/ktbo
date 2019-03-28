@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45b66fd1-bfb7-452f-b875-bc8f53bb39bf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/answers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/answers/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,16 +20,8 @@
         <entry file="file://$PROJECT_DIR$/answers/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="254">
-                <caret line="136" column="82" lean-forward="true" selection-start-line="136" selection-start-column="4" selection-end-line="136" selection-end-column="82" />
-                <caret line="137" column="82" lean-forward="true" selection-start-line="137" selection-start-column="4" selection-end-line="137" selection-end-column="82" />
-                <caret line="138" column="82" lean-forward="true" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="82" />
-                <caret line="139" column="82" lean-forward="true" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="82" />
-                <caret line="140" column="82" lean-forward="true" selection-start-line="140" selection-start-column="4" selection-end-line="140" selection-end-column="82" />
-                <caret line="141" column="82" lean-forward="true" selection-start-line="141" selection-start-column="4" selection-end-line="141" selection-end-column="82" />
-                <caret line="142" column="82" lean-forward="true" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="82" />
-                <caret line="143" column="82" lean-forward="true" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="82" />
-                <caret line="144" column="82" selection-start-line="144" selection-start-column="4" selection-end-line="144" selection-end-column="82" />
+              <first_editor relative-caret-position="413">
+                <caret line="162" column="28" lean-forward="true" selection-start-line="162" selection-start-column="28" selection-end-line="162" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -150,12 +141,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553728438295</updated>
-      <workItem from="1553728440738" duration="14510000" />
+      <workItem from="1553728440738" duration="15075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14510000" />
+    <option name="totallyTimeSpent" value="15075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="798" extended-state="0" />
@@ -207,16 +198,8 @@
     <entry file="file://$PROJECT_DIR$/answers/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="254">
-            <caret line="136" column="82" lean-forward="true" selection-start-line="136" selection-start-column="4" selection-end-line="136" selection-end-column="82" />
-            <caret line="137" column="82" lean-forward="true" selection-start-line="137" selection-start-column="4" selection-end-line="137" selection-end-column="82" />
-            <caret line="138" column="82" lean-forward="true" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="82" />
-            <caret line="139" column="82" lean-forward="true" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="82" />
-            <caret line="140" column="82" lean-forward="true" selection-start-line="140" selection-start-column="4" selection-end-line="140" selection-end-column="82" />
-            <caret line="141" column="82" lean-forward="true" selection-start-line="141" selection-start-column="4" selection-end-line="141" selection-end-column="82" />
-            <caret line="142" column="82" lean-forward="true" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="82" />
-            <caret line="143" column="82" lean-forward="true" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="82" />
-            <caret line="144" column="82" selection-start-line="144" selection-start-column="4" selection-end-line="144" selection-end-column="82" />
+          <first_editor relative-caret-position="413">
+            <caret line="162" column="28" lean-forward="true" selection-start-line="162" selection-start-column="28" selection-end-line="162" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
