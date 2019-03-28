@@ -69,7 +69,7 @@ const array = [{id: 1, name: "mapache"}, {id:2, name:"perrito"}];
 
 //Example 1
  
-for (let i = 0; i < array.length; i++) {```
+for (let i = 0; i < array.length; i++) {
     if(array[i].name === 'mapache') {
         console.log(array[i].id);
     } 
@@ -84,7 +84,7 @@ console.log(result.id) ;
 
 array.forEach((el) => {
     if(el.name === 'mapache'){
-        console.log(el.id)         git a
+        console.log(el.id)        
     }
 }
 
