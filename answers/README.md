@@ -184,7 +184,37 @@ codigo que se esta ejecutando o bien al objeto de una funcion.
 * O(2n)
 
 ```javascript
+
+/*
+    0, 1, 1, 2, 3, 5, 8, 13...
+    fn = f(n - 1) + f(n - 2)
+*/
     
+function fibonacci(n) {
+    let fn = [0, 1];
+    if (n <= 1) {
+        return fn;
+    }
+
+    for (let i = 2; i <= n; i++) {
+        fn[i] = fn[i - 1] + fn[i - 2];
+    }
+    
+    return fn;
+}
+
+let array = fibonacci(10);
+
+for(let i = 0; i < array.length; i++) {
+    console.log(array[i]);
+}
+
+
+
+
+
+
+
     
 
 ```
