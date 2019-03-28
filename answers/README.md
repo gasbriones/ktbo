@@ -147,11 +147,11 @@ variables acceder en cada parte del código, existen 2 tipos el global y el loca
     //Example 2
     
     function a() {
-    	let outside = 'outside';
+        let outside = 'outside';
     
     	function b() {
-    		let inside = 'inside';
-    		console.log(outside); 
+            let inside = 'inside';
+            console.log(outside); 
     	}
     	b(); // outside    
     	console.log(inside); 
