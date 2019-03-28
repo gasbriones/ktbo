@@ -159,5 +159,32 @@ variables acceder en cada parte del código, existen 2 tipos el global y el loca
     
     a(); // inside is not defined  
 ```
-* Context: 
+* Context: Esta estrechamente ligado a los objetos y es el valor de "this" que es una referencia al objeto que posee el 
+codigo que se esta ejecutando o bien al objeto de una funcion.
+
+```javascript 
+    //contexto global
+    window === this //true
+    
+    //contexto de funciones
+    
+    function Person() {        
+        this.name = "Gaston";      
+        getName = function (){      
+            return this.name;      
+        }                          
+    }                              
+    
+    let subject = new Person();    
+    console.log(subject.name); 
+        
+    
+    
+    
+    
+    
+    
+```
+
+
 
