@@ -164,17 +164,17 @@ codigo que se esta ejecutando o bien al objeto de una funcion.
 
 ```javascript 
     //contexto global
+
     window === this //true
-    
+    console.log(this) // Window {postMessage: ƒ, blur: ƒ, focus: ƒ, close: ƒ, parent: Window, …}
+
     //contexto de funciones
     
-    function Person() {        
-        this.name = "Gaston";      
-        getName = function (){      
-            return this.name;      
-        }                          
+    function Person() {     
+        console.log(this); //Person {}
+        this.name = "Gaston";                              
     }                              
-    
+
     let subject = new Person();    
     console.log(subject.name); //Gaston
         
