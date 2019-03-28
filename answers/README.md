@@ -203,7 +203,7 @@ function fibonacci(n) {
     return fn;
 }
 
-let array = fibonacci(10);
+let array = fibonacci(10);  // 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55
 
 for(let i = 0; i < array.length; i++) {
     console.log(array[i]);
