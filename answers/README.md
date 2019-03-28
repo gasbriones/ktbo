@@ -60,7 +60,17 @@ console.log(bindA()); //2
 console.log(bindB()); //4
 console.log(bindC()); // Hola mundo
 
-```
+//Example 2
+
+let sum = function(a, b) {
+  return a + b;
+};
+
+let add = sum.bind(null, 5);
+
+add(10); //15
+
+```  
 ##### 2. ¿Cómo iterarías el siguiente arreglo para imprimir en consola el id del name exactamente igual a “mapache”?
 
 ```javascript 
@@ -107,3 +117,4 @@ array.map(ele => {
 })
   	
 ```
+##### 3. ¿Cuál es la diferencia entre scope y context?
