@@ -1,0 +1,8 @@
+{
+  "name": "ktbo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gasbriones/ktbo.git",
+  "author": "Gaston Mac <briones.gaston@gmail.com>",
+  "license": "MIT"
+}
