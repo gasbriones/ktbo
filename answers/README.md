@@ -86,7 +86,7 @@ array.forEach((el) => {
     if(el.name === 'mapache'){
         console.log(el.id)        
     }
-}
+});
 
 //Example 4
 
