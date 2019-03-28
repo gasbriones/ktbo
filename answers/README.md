@@ -101,8 +101,8 @@ while (array[i].name === "mapache");
 //Example 5
 
 array.map(ele => {
-	if(ele.name === 'mapache'){
-  	    console.log(ele.id)
+    if(ele.name === 'mapache'){
+        console.log(ele.id)
     }
 })
   	
