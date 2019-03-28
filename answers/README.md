@@ -176,14 +176,17 @@ codigo que se esta ejecutando o bien al objeto de una funcion.
     }                              
     
     let subject = new Person();    
-    console.log(subject.name); 
+    console.log(subject.name); //Gaston
         
+```
+##### 4. ¿Cuál es la complejidad de runtime para la secuencia Fibonacci?
+
+* O(2n)
+
+```javascript
     
     
-    
-    
-    
-    
+
 ```
 
 
