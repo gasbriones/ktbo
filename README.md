@@ -1,8 +1,11 @@
+#Para ver las respuestas del cuestionario abrir
+- __ANSWERS.md__
 
-# Requerimientos
+
+# Requerimientos para ejecutar el ejercicio técnico
 - Api key de Giphy
 
-# Tecnologia
+# Tecnologias usadas
 - __React 16__
 - __Redux__
 - __Bootstrap 4__
@@ -11,7 +14,7 @@
 
 # Puesta en marcha
 
-Para instalar las dependecias necesarias ejecutar:
+Para instalar las dependencias necesarias ejecutar:
 ### `npm install`
 
 Una vez instaladas las dependecias ejecutar:
