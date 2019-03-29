@@ -2,6 +2,8 @@ import React, {Component} from 'react';
 import {Button, Col, Form} from 'reactstrap';
 import PropTypes from 'prop-types';
 import loadingAction from "../../redux/actionsCreators/loading_actions";
+import titleAction from "../../redux/actionsCreators/title_actions";
+
 import {connect} from "react-redux";
 
 class SearchForm extends Component {
@@ -22,9 +24,16 @@ class SearchForm extends Component {
 
     _handleSubmit = (e) => {
         e.preventDefault();
-        this.props.dispatch(loadingAction.loading(true));
-        this.props.getData('search', 25, 'G', this.state.key);
-        e.target.reset()
+
+        if(this.state.key !== ''){
+            this.props.dispatch(loadingAction.loading(true));
+            this.props.dispatch(titleAction.setTitle(`Resultados para "${this.state.key}"`));
+            this.props.getData('search', 25, 'G', this.state.key);
+
+            e.target.reset()
+        } else {
+            alert('Ingrese un creterio de busqueda')
+        }
     };
 
     render() {

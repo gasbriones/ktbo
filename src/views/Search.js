@@ -53,7 +53,6 @@ class Search extends Component {
     }
 }
 
-
 Search.propTypes = {
     loading: PropTypes.object.isRequired
 };

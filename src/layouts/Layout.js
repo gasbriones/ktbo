@@ -7,7 +7,7 @@ const Layout = ({ children }) => {
         <div>
             <Navbar dark color="dark" className="mb-3">
                 <Container>
-                    <NavbarBrand href="/">Buscador de gifs</NavbarBrand>
+                    <NavbarBrand href="/">Top Gifs</NavbarBrand>
                 </Container>
             </Navbar>
             {children}
@@ -15,9 +15,8 @@ const Layout = ({ children }) => {
     )
 };
 
-
-export default Layout
-
 Layout.propTypes = {
     children: PropTypes.element.isRequired
 };
+
+export default Layout

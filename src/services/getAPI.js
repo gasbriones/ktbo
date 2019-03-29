@@ -10,7 +10,6 @@ export default {
                     limit: limit || config.giphy.limit,
                     rating: rating || config.giphy.rating,
                     q:q || config.giphy.query
-
                 }
             })
         } catch (error) {
