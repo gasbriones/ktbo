@@ -1,0 +1,13 @@
+.gif-cell {
+    flex-grow: 1;
+    height: 200px;
+    margin: 2px;
+    overflow: hidden;
+}
+
+.gif-image {
+    object-fit: cover;
+    min-width: 100%;
+    max-width: 100%;
+    vertical-align: bottom;
+}
