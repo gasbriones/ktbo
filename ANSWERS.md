@@ -212,9 +212,48 @@ for(let i = 0; i < array.length; i++) {
 ```
 ##### 4-A GIF: Consumiendo el API de giphy, crea un buscador de gifs a modo landing page en VUE, muestra los top gif’s; sube tu proyecto a algún repositorio.
 
+https://github.com/gasbriones/ktbo
+
 ##### 5. Comparte dos links de tus proyectos que más te gusten que combinen gran diseño y gran código. Agrega tu link de GITHUB / Behance / Portfolio
 
-Remit: https://remit.delivery
+Repositorio personal: https://github.com/gasbriones
+
+##### Proyectos en los que participe
+Remit: <br>
+https://remit.delivery/ <br>
+https://play.google.com/store/apps/details?id=com.remit&hl=es_419 <br>
+https://itunes.apple.com/us/app/remit-delivery/id1401644136?l=es&ls=1&mt=8 <br>
+
+NKNews: <br>
+https://www.nknews.org/ <br>
+https://play.google.com/store/apps/details?id=org.nknews.mobile <br>
+
+Artear: <br>
+http://TN.com.ar <br>
+
+Portafolios web master <br>
+
+* https://holboxmagico.mx/
+* https://martinalaborde.com.ar/ 
+* http://miremont.com.ar/
+* http://www.iñakirestaurante.com.ar/
+* http://patriciagabriel.com.ar/
+* http://estudioclaria-sokol.com/
+* http://lotterihnos.com.ar/
+* http://brabefil.com.ar/
+* http://okey-web.com.ar/
+* http://www.antivari.com.ar/
+* http://www.inaqui.com.ar/
+* http://www.casiraghi.com.ar/
+* http://www.bmfdrinks.com/
+* http://www.tanker.com.ar/
+* http://www.nivel1pdv.com.ar/
+* http://www.afford.com.ar/
+
+
+
+
+
 
 
 
