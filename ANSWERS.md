@@ -210,6 +210,11 @@ for(let i = 0; i < array.length; i++) {
 }
 
 ```
+##### 4-A GIF: Consumiendo el API de giphy, crea un buscador de gifs a modo landing page en VUE, muestra los top gif’s; sube tu proyecto a algún repositorio.
+
+##### 5. Comparte dos links de tus proyectos que más te gusten que combinen gran diseño y gran código. Agrega tu link de GITHUB / Behance / Portfolio
+
+Remit: https://remit.delivery
 
 
 
