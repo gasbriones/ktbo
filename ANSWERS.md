@@ -250,6 +250,10 @@ Portafolios web master <br>
 * http://www.nivel1pdv.com.ar/
 * http://www.afford.com.ar/
 
+##### 6. Comparte uno o dos proyectos paralelos (lado b) en el que participes o hayas participado, sin importar si es digital o de tecnología. -favor de incluir links
+
+https://addons.mozilla.org/es/firefox/addon/tn-todo-noticias/" 
+
 
 
 
