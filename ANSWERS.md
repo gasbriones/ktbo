@@ -214,6 +214,9 @@ for(let i = 0; i < array.length; i++) {
 
 https://github.com/gasbriones/ktbo
 
+Vista previa: <br>
+https://clever-brattain-52b883.netlify.com/
+
 ##### 5. Comparte dos links de tus proyectos que más te gusten que combinen gran diseño y gran código. Agrega tu link de GITHUB / Behance / Portfolio
 
 Repositorio personal: https://github.com/gasbriones
